@@ -1,0 +1,25 @@
+
+.intro {
+    color: #4c4c4c;
+    font-size: 14px;
+    line-height: 1.6em;
+    margin-bottom: 80px;
+    padding: 0 100px;
+}
+.row {
+    padding: 5px 0;
+    margin-bottom: 60px;
+    overflow: hidden;
+
+}
+.row .quickView {
+    float: left;
+    margin-left: 30px;
+}
+.row .quickView.place {
+    margin-left: 25px;
+}
+.row .quickView:first-child {
+    margin: 0;
+}
+
